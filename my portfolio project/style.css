@@ -1,0 +1,46 @@
+*{
+    background-color:#080808 ;
+    color: #9C9C9C;
+  
+}
+body{
+    margin: 0;
+
+}
+.navbar{
+    background-color: #1B1B1B;
+    border-radius: 10px;
+    
+}
+.navbar ul{
+    list-style: none;
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    float: left;
+   
+    
+    
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    display: block;
+    padding: 24px;
+    color: #9C9C9C;
+    background-color:#1B1B1B ;
+
+    padding-left: 95px;
+    
+}
+main{
+    padding: 150px;
+}
+.lets h1{
+    background-color: #0dcaf0;
+    color: white;
+    display: block;
+    width: 20px;
+}
+
+
